@@ -205,6 +205,9 @@ footer{
     .all-match {
         background-color: white;
     }
+    .all-match a{
+        font-size: 10px;
+    }
     .blogs{
         grid-template-columns: repeat(1, 1fr);        
     }
